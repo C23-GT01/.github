@@ -1,4 +1,4 @@
-## Henlo there 👋
+## Hello there 👋
 
 <!--
 
