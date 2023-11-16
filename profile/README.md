@@ -23,7 +23,6 @@ Our team Consist of 8 people.
 
 ## Our Teammate
 
-:---:|:---:|:---:|:---:
 Bangkit ID | Bangkit ID | University | Learning Path
 :---:|:---|:---|:---:
 M312BSX0085 | Siwi Budi Utami | Sebelas Maret University | Machine Learning
