@@ -33,3 +33,5 @@ A159BSY2179 | Abdullah Fikri Handi Saputra | Digital Technology University of In
 C193BSY3094 | Alfi Syahrin | Bina Sarana Informatika University| Cloud Computing
 C323BSY4246 | Abid Muhsin | Tadulako University |  Cloud Computing
 C193BSY3126 | Fattahillah Wahyu Nur Rozaaq | Bina Sarana Informatika University| Cloud Computing
+
+![image](https://github.com/C23-GT01/.github/assets/96417922/d5bed638-4770-4627-b2b3-35a8de3657f3)
