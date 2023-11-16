@@ -24,7 +24,7 @@ Our team Consist of 8 people.
 ## Our Teammate
 
 Bangkit ID | Bangkit ID | University | Learning Path
-:---:|:---|:---|:---:
+:---:|:---|:---|:---
 M312BSX0085 | Siwi Budi Utami | Sebelas Maret University | Machine Learning
 M487BSY0275 | Rizky Wantoro | Alma Ata University | Machine Learning
 A323BSY2513 | Noel Marcell Jonathan Wongkar | Tadulako University | Mobile Development
