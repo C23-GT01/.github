@@ -23,7 +23,7 @@ Our team Consist of 8 people.
 
 ## Our Teammate
 
-Bangkit ID | Bangkit ID | University | Learning Path
+Bangkit ID | Name | University | Learning Path
 :---:|:---|:---|:---
 M312BSX0085 | Siwi Budi Utami | Sebelas Maret University | Machine Learning
 M487BSY0275 | Rizky Wantoro | Alma Ata University | Machine Learning
