@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there 👋 This is our repository for
 
 <!--
 
@@ -13,8 +13,6 @@
 # Bangkit-C23-GT01-Company-Based-Capstone
 
 ![Bangkit](https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600)
-
-This is our repository for Company Based Capstone.
 
 Our team Consist of 8 people.
 
