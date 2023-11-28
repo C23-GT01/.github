@@ -1,4 +1,4 @@
-## Hello there 👋 This is our repository for
+## Hello there 👋 This is our repository for:
 
 <!--
 
