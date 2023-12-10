@@ -14,12 +14,12 @@
 
 ![Bangkit](https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600)
 
-Our team Consist of 8 people.
+Our team consists of 8 people.
 
 - [Bangkit-C23-GT01-Company-Based-Capstone](#bangkit-c23-gt01-company-based-capstone)
-  - [Our Teammate](#our-member)
+  - [Our Team](#our-team)
 
-## Our Teammate
+## Our Team
 
 Bangkit ID | Name | University | Learning Path
 :---:|:---|:---|:---
