@@ -22,14 +22,14 @@ Our team consists of 8 people.
 ## Our Team
 
 Bangkit ID | Name | University | Learning Path
-:---:|:---|:---|:---
-M312BSX0085 | Siwi Budi Utami | Sebelas Maret University | Machine Learning
-M487BSY0275 | Rizky Wantoro | Alma Ata University | Machine Learning
-A323BSY2513 | Noel Marcell Jonathan Wongkar | Tadulako University | Mobile Development
-A323BSY2495 | I Gusti Ngurah Agung Kade Dwi Arsana | Tadulako University |  Mobile Development
-A159BSY2179 | Abdullah Fikri Handi Saputra | Digital Technology University of Indonesia | Mobile Development
-C193BSY3094 | Alfi Syahrin | Bina Sarana Informatika University| Cloud Computing
-C323BSY4246 | Abid Muhsin | Tadulako University |  Cloud Computing
-C193BSY3126 | Fattahillah Wahyu Nur Rozaaq | Bina Sarana Informatika University| Cloud Computing
+:---:|:---|:---|:--- 
+M312BSX0085 | [Siwi Budi Utami](https://www.linkedin.com/in/siwibudiutami) | Sebelas Maret University | Machine Learning 
+M487BSY0275 | [Rizky Wantoro](https://www.linkedin.com/in/rizky-wantoro-8551a4282) | Alma Ata University | Machine Learning
+A323BSY2513 | [Noel Marcell Jonathan Wongkar](https://www.linkedin.com/in/noelljonathan/) | Tadulako University | Mobile Development
+A323BSY2495 | [I Gusti Ngurah Agung Kade Dwi Arsana](https://www.linkedin.com/in/ngurah-agung-7a3231279) | Tadulako University |  Mobile Development
+A159BSY2179 | [Abdullah Fikri Handi Saputra](https://www.linkedin.com/in/fikrihandy) | Digital Technology University of Indonesia | Mobile Development
+C193BSY3094 | [Alfi Syahrin](https://www.linkedin.com/in/alfimonth) | Bina Sarana Informatika University| Cloud Computing
+C323BSY4246 | [Abid Muhsin](https://www.linkedin.com/in/abid-muhsin) | Tadulako University |  Cloud Computing
+C193BSY3126 | [Fattahillah Wahyu Nur Rozaaq](https://www.linkedin.com/in/fattahillahwahyu/) | Bina Sarana Informatika University| Cloud Computing
 
 ![image](https://github.com/C23-GT01/.github/assets/96417922/d5bed638-4770-4627-b2b3-35a8de3657f3)
