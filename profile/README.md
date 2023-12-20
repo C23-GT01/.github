@@ -59,5 +59,5 @@ C193BSY3126 | [Fattahillah Wahyu Nur Rozaaq](https://www.linkedin.com/in/fattahi
 <hr>
 
 <p align="center">
-  <img width="500" src="https://github.com/C23-GT01/.github/assets/96417922/d5bed638-4770-4627-b2b3-35a8de3657f3" alt="Meme">
+  <img width="500" src="https://github.com/C23-GT01/.github/assets/96417922/5b25915d-1767-42cd-8d8b-2451437c6f97" alt="Meme">
 </p>
