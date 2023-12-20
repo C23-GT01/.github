@@ -1,4 +1,4 @@
-## Hello there 👋 This is our repository for:
+
 
 <!--
 
@@ -10,20 +10,24 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-# Bangkit-C23-GT01-Company-Based-Capstone
+<div align="right">
+  <img width="200" src="https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600" alt="Material Bread logo">
+  <br>
+  <p>Company-Based-Capstone</p>
+  <q>C23-GT01</q>
+</div>
 
-![Bangkit](https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600)
+## Overview
+![tr-logo](https://github.com/C23-GT01/.github/assets/96417922/fe4400c3-5684-41f6-b9b5-7e9692322041)
+# TrackMate
+TrackMate is a GeoTagging Trace Ability Platform created to accommodate products from MSMEs that can later be seen in detail by users by simply scanning the QR Code. Users can see product details, resources, production processes, and other interesting information about products from MSMEs. TrackMate was created to help improve the economy and advance MSMEs in Indonesia.
 
 ## List of Content
 - [Overview](#overview)
 - [Mobile App](#mobile-app)
 - [Web App](#web-app)
 - [Our Team](#our-team)
-
-## Overview
-![tr-logo](https://github.com/C23-GT01/.github/assets/96417922/fe4400c3-5684-41f6-b9b5-7e9692322041)
-# TrackMate
-TrackMate is a GeoTagging Trace Ability Platform created to accommodate products from MSMEs that can later be seen in detail by users by simply scanning the QR Code. Users can see product details, resources, production processes, and other interesting information about products from MSMEs. TrackMate was created to help improve the economy and advance MSMEs in Indonesia.
+- [Additional](#additional)
 
 ## Mobile App
 ![image](https://github.com/C23-GT01/.github/assets/96417922/01cb6d4e-fbd5-4d4c-864b-44ed78c83e63)
@@ -33,6 +37,7 @@ TrackMate is a GeoTagging Trace Ability Platform created to accommodate products
 
 
 ## Our Team
+# C23-GT01
 
 Bangkit ID | Name | University | Learning Path
 :---:|:---|:---|:--- 
@@ -45,4 +50,12 @@ C193BSY3094 | [Alfi Syahrin](https://www.linkedin.com/in/alfimonth) | Bina Saran
 C323BSY4246 | [Abid Muhsin](https://www.linkedin.com/in/abid-muhsin) | Tadulako University |  Cloud Computing
 C193BSY3126 | [Fattahillah Wahyu Nur Rozaaq](https://www.linkedin.com/in/fattahillahwahyu/) | Bina Sarana Informatika University| Cloud Computing
 
-![image](https://github.com/C23-GT01/.github/assets/96417922/d5bed638-4770-4627-b2b3-35a8de3657f3)
+## Additional
+
+- [API Documentation](https://github.com/C23-GT01/backend-api/blob/main/README.md#Endpoint)
+
+<hr>
+
+<p align="center">
+  <img width="500" src="https://github.com/C23-GT01/.github/assets/96417922/d5bed638-4770-4627-b2b3-35a8de3657f3" alt="Meme">
+</p>
