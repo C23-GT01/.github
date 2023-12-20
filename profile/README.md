@@ -14,10 +14,23 @@
 
 ![Bangkit](https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600)
 
-Our team consists of 8 people.
+## List of Content
+- [Overview](#overview)
+- [Mobile App](#mobile-app)
+- [Web App](#web-app)
+- [Our Team](#our-team)
 
-- [Bangkit-C23-GT01-Company-Based-Capstone](#bangkit-c23-gt01-company-based-capstone)
-  - [Our Team](#our-team)
+## Overview
+![tr-logo](https://github.com/C23-GT01/.github/assets/96417922/fe4400c3-5684-41f6-b9b5-7e9692322041)
+# TrackMate
+TrackMate is a GeoTagging Trace Ability Platform created to accommodate products from MSMEs that can later be seen in detail by users by simply scanning the QR Code. Users can see product details, resources, production processes, and other interesting information about products from MSMEs. TrackMate was created to help improve the economy and advance MSMEs in Indonesia.
+
+## Mobile App
+![image](https://github.com/C23-GT01/.github/assets/96417922/01cb6d4e-fbd5-4d4c-864b-44ed78c83e63)
+
+## Web App
+![image](https://github.com/C23-GT01/.github/assets/96417922/a75f6931-e110-4883-b073-0ceb18a1105f)
+
 
 ## Our Team
 
