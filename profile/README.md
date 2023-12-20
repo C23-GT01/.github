@@ -30,10 +30,12 @@ TrackMate is a GeoTagging Trace Ability Platform created to accommodate products
 - [Additional](#additional)
 
 ## Mobile App
-![image](https://github.com/C23-GT01/.github/assets/96417922/01cb6d4e-fbd5-4d4c-864b-44ed78c83e63)
+![image](https://github.com/C23-GT01/.github/assets/96417922/01cb6d4e-fbd5-4d4c-864b-44ed78c83e63) <br>
+[Download Mobile App](https://github.com/C23-GT01/android-app/releases/download/Final-Deliverables/trackmate-1.0.apk)
 
 ## Web App
-![image](https://github.com/C23-GT01/.github/assets/96417922/a75f6931-e110-4883-b073-0ceb18a1105f)
+![image](https://github.com/C23-GT01/.github/assets/96417922/a75f6931-e110-4883-b073-0ceb18a1105f) <br>
+[Go to Web App](https://web-app-five-beta.vercel.app/)
 
 
 ## Our Team
